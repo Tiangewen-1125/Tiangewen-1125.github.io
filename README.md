@@ -15,8 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Education
 - **Master of Science, Financial Engineering, Nankai University, Tianjin City, P.R. China**
 - **Bachelor of Science, Financial Management (Financial Engineering), Hunan University, Hunan Province, P.R. China**
-GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.png))
-TOEFL: 92 (See [TOEFL scores](/toefl.png))
+- GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.png))
+- TOEFL: 92 (See [TOEFL Scores](/toefl.png))
+- Core Courses:  (See [Report Card](/reportcard.png))
 
 
 ### Latest News
