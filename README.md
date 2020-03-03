@@ -49,7 +49,7 @@ completed and revised the manuscript which has been accepted by _Journal of Mult
 Management_.
 
 ### Publications
-1. **Wen, T.**, & [Wang, G. J.](https://www.researchgate.net/profile/Gang_Jin_Wang) (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
+1. **Wen, T.**, & [Wang, G. J.](https://researchgate.net/profile/Gang_Jin_Wang) (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
 
 ### Honors
 - [**Second Prize** in “FLTRP Cup” English Reading Contest](/FLTRP.jpg)  
