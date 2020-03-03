@@ -1,4 +1,3 @@
-## Welcome to the Homepage of Tiange Wen
 <table border="0">
   <tr>
     <td width="75%">
@@ -13,7 +12,9 @@
       <img src="/wentg_photo.jpg" width="100%">     
     </td>
   </tr>
-</table>
+</table>  
+
+[Download CV here.](/wentg_cv.pdf)
 
 ### Education
 - **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
@@ -21,11 +22,11 @@ Graduation Expected in June, 2021
 - **2015-2019: Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China**
 - GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))
 - TOEFL: 92 (See [TOEFL Scores](/toefl.jpg))
-- Core Courses: (See [Report Card](/reportcard.jpg))  
-Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**); Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);  
-
+- Core Courses: (See [Report Card](/reportcard.pdf))  
+Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);  
 
 ### Latest News
+1. 
 ### Research Interests
 - Financial Networks
 - Systemic Risk
