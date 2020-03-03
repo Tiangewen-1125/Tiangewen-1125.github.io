@@ -44,12 +44,12 @@ Firstly, I developed both static and dynamic volatility connectedness measures o
 (forex) markets based on LASSO-VAR approaches in the variance decomposition framework.
 Then I constructed the high dimensional volatility connectedness network linking more than 40 major currencies and
 explored factors driving risk contagion between forex markets by analyzing properties of the complex
-networks. In the empirical research, I calculated the volatility spillover index (see e.g., [rolling total volatility spillover index of currencies](/RTVSI.bnp)) and enabled network visualization (see e.g., [volatility connectedness network of currencies](/VCNC.jpg)). My undergraduate thesis (see the [Abstract](/Abs.pdf)) was completed on this basis. Then with the instruction of my supervisor, I 
+networks. In the empirical research, I calculated the volatility spillover index (see e.g., [rolling total volatility spillover index of currencies](/RTVSI.png)) and enabled network visualization (see e.g., [volatility connectedness network of currencies](/VCNC.jpg)). My undergraduate thesis (see the [Abstract](/Abs.pdf)) was completed on this basis. Then with the instruction of my supervisor, I 
 completed and revised the manuscript which has been accepted by _Journal of Multinational Financial
 Management_.
 
 ### Publications
-1. **Wen, T.**, & [Wang, G. J.](/https://www.researchgate.net/profile/Gang_Jin_Wang) (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
+1. **Wen, T.**, & [Wang, G. J.](https://www.researchgate.net/profile/Gang_Jin_Wang) (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
 
 ### Honors
 - [**Second Prize** in “FLTRP Cup” English Reading Contest](/FLTRP.jpg)  
