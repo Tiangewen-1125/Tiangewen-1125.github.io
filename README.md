@@ -14,7 +14,7 @@
   </tr>
 </table>  
 
-[See my CV.](/wentg_cv.pdf)
+[Please click here to see my CV.](/wentg_cv.pdf)
 
 ### Education
 - **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
@@ -34,34 +34,20 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 - Operation Research
 - Big Data and Machine Learning
 
-### Technical Experience
+### Technical Skills 
+- **Programming:** C, C++, Matlab, R, Stata, EViews (Time Series Analysis)   
+- **Other Softwares:** Anylogic (Simulation and Modeling), Pajek (Network Visualization), Gephi (Network Visualization), Markdown, LaTeX (Typesetting) 
+
+
 ### Publications
 1. **Wen, T.**, & Wang, G. J. (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
 
 ### Honors
 - [**Second Prize** in “FLTRP Cup” English Reading Contest](/FLTRP.jpg)  
 - **Provincial Third Prize** in National Mathematical Modelling Contest  
-- **Third Prize** in Hunan University Mathematical Modelling Contest  
+- **Third Prize** in Hunan University Mathematical Modelling Contest
+- [**Successful Participant** of the Interdisciplinary Contest In Modeling](/ICIM.jpg)
 - Offered _Hunan University_ **Second Class** Scholarship (2017, 2018) 
 
 
-```markdown
-Syntax highlighted code block
 
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tiangewen-1125/tiangewen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
