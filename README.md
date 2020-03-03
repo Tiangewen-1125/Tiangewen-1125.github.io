@@ -12,6 +12,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #### Tel: (+86) 173 2027 0982
 #### Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China.
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Name: Tiange Wen</h1>
+      <p><b>Gender: Female</b></p>
+      <p><b>Citizenship: Chinese</b></p>
+      <p><b>Email: tiangewen_or@outlook.com</b></p>
+      <p><b>Tel: (+86) 173 2027 0982</b></p>
+      <p><b>Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/wentg_photo.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 ### Education
 - **Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China, 2019-2020**
 Graduation Expected in June,2021
