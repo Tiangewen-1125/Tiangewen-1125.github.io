@@ -31,7 +31,7 @@ Graduation Expected in June,2021
 1.Mathematics:
 Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**);  
 2.Statistics:  
-Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);
+Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);  
 3.Programming:  
 Programming Practice (**C and C++ Programming, 92**), Data Structure and Algorithm (**Theory, 98**), Financial Computational Experiment (**Excel VBA and Matlab, 91**), Financial Econometrics (**EViews, R and Matlab, 94**), Computational Simulation and Modeling (**Anylogic, 96**)
 
