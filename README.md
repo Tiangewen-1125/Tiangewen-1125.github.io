@@ -4,18 +4,10 @@ You can use the [editor on GitHub](https://github.com/Tiangewen-1125/tiangewen.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Basic Information
-#### Name: Tiange Wen
-#### Gender: Female
-#### Citizenship: Chinese
-#### Email: tiangewen_or@outlook.com
-#### Tel: (+86) 173 2027 0982
-#### Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China.
-
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Name: Tiange Wen</h1>
+      <h1>Tiange Wen</h1>
       <p><b>Gender: Female</b></p>
       <p><b>Citizenship: Chinese</b></p>
       <p><b>Email: tiangewen_or@outlook.com</b></p>
@@ -23,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China</b></p>
     </td>
     <td width="25%">
-      <img src="/wentg_photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/wentg_photo.jpg" width="100%">     
     </td>
   </tr>
 </table>
