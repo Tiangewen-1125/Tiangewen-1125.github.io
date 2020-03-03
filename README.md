@@ -39,7 +39,7 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 - **Other Softwares:** Anylogic (Simulation and Modeling), Pajek (Network Visualization), Gephi (Network Visualization), Markdown, LaTeX (Typesetting) 
 
 ### Research Experience
-- **2018--present: Financial Networks and Systematic Risk, Hunan University**  
+- **2018--present: Financial Networks and Systematic Risk, _Hunan University_**  
 Firstly, I developed both static and dynamic volatility connectedness measures of global foreign exchange
 (forex) markets based on LASSO-VAR approaches in the variance decomposition framework.
 Then I constructed the high dimensional volatility connectedness network linking more than 40 major currencies and
