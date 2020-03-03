@@ -13,10 +13,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #### Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China.
 
 ### Education
-- ** Master of Science, Financial Engineering, Nankai University, Tianjin City, P.R. China**
-- ** Bachelor of Science, Financial Management (Financial Engineering), Hunan University, Hunan Province, P.R. China**
-GPA: 4.15/4.5, Rank: 4/67
-[GPA and Rank](/gpa&rank.png)
+- **Master of Science, Financial Engineering, Nankai University, Tianjin City, P.R. China**
+- **Bachelor of Science, Financial Management (Financial Engineering), Hunan University, Hunan Province, P.R. China**
+GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.png))
+TOEFL: 92 (See [TOEFL scores](/toefl.png))
+
 
 ### Latest News
 ### Research Interests
