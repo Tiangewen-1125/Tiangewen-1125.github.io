@@ -1,9 +1,4 @@
 ## Welcome to the Homepage of Tiange Wen
-
-You can use the [editor on GitHub](https://github.com/Tiangewen-1125/tiangewen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -20,20 +15,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
 </table>
 
-
 ### Education
-- **Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China, 2019-2020**  
-Graduation Expected in June,2021
-- **Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China, 2015-2019**
+- **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
+Graduation Expected in June, 2021
+- **2015-2019: Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China**
 - GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))
 - TOEFL: 92 (See [TOEFL Scores](/toefl.jpg))
 - Core Courses: (See [Report Card](/reportcard.jpg))  
-1.Mathematics:
-Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**);  
-2.Statistics:  
-Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);  
-3.Programming:  
-Programming Practice (**C and C++ Programming, 92**), Data Structure and Algorithm (**Theory, 98**), Financial Computational Experiment (**Excel VBA and Matlab, 91**), Financial Econometrics (**EViews, R and Matlab, 94**), Computational Simulation and Modeling (**Anylogic, 96**)
+Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**); Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);  
+
 
 ### Latest News
 ### Research Interests
