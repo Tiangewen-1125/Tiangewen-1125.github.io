@@ -36,7 +36,7 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 
 ### Technical Experience
 ### Publications
-1. **Wen, T.**, & Wang, G. J. (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFEM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
+1. **Wen, T.**, & Wang, G. J. (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
 
 ### Honors
 
