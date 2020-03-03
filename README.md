@@ -14,7 +14,7 @@
   </tr>
 </table>  
 
-[Download CV here.](/wentg_cv.pdf)
+[Download CV.](/wentg_cv.pdf)
 
 ### Education
 - **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
@@ -23,10 +23,11 @@ Graduation Expected in June, 2021
 - GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))
 - TOEFL: 92 (See [TOEFL Scores](/toefl.jpg))
 - Core Courses: (See [Report Card](/reportcard.pdf))  
-Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**);  
+Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**)  
 
 ### Latest News
-1. 
+1. **Wen, T.**, & Wang, G. J. (2020). Volatility Connectedness in Global Foreign Exchange Markets. _Journal of Multinational Financial Management_ (SSCI), 100617.  
+
 ### Research Interests
 - Financial Networks
 - Systemic Risk
@@ -35,6 +36,8 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 
 ### Technical Experience
 ### Publications
+1. **Wen, T.**, & Wang, G. J. (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFEM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
+
 ### Honors
 
 ```markdown
