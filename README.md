@@ -9,12 +9,16 @@
       <p><b>Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China</b></p>
     </td>
     <td width="25%">
-      <img src="/wentg_photo.jpg" width="100%">     
+      <img src="/photo.jpg" width="100%">     
     </td>
   </tr>
 </table>  
 
-[Please click here to see my CV.](/CV.pdf)
+I'm currently a master student of Nankai University, with my interest covering . At CMU, my capstone project is on multi-view pose estimation, with professor Katerina Fragkiadaki. I interned at Facebook AI Research mentored by Priya Goyal and Abhinav Gupta. 
+I have a track record of contributing to CNN efficient inference during my undergrad study. Particularly, I designed channel pruning to effectively prune channels. I further proposed AMC to sample the design space of channel pruning via reinforcement learning, which greatly improved the performance. 
+I served as a reviewer for ECCV'20, ICML'20, CVPR'20, ICLR'20, ICCV'19, CVPR'19, ICLR'19, NIPS'18, Pattern Recognition Letters, TIP and IJCV. 
+
+[Link to my CV.](/CV.pdf)
 
 ### Education
 - **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
