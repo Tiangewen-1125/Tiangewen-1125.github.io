@@ -14,7 +14,7 @@
   </tr>
 </table>  
 
-[Please click here to see my CV.](/wentg_cv.pdf)
+[Please click here to see my CV.](/CV.pdf)
 
 ### Education
 - **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
