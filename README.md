@@ -14,16 +14,16 @@
   </tr>
 </table>  
 
-I'm currently a master student of Nankai University majoring in Financial Engineering. I'm broadly interested in topics of operation research, data science and financial management and actively applying for PhD. 
+I'm currently a master student of Nankai University majoring in Financial Engineering. I'm broadly interested in topics of operation research, data science and financial risk management, and portfolio analysis. I'm now actively applying for PhD in relevant fields. 
 
 [Link to Curriculum Vitae.](/CV.pdf)
 
 ### Education
-- **2019-2020: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
-Graduation Expected in June, 2021
+- **2019-2022: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
+Graduation Expected in June, 2022
 - **2015-2019: Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China**  
   GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))  
-  TOEFL: 92 (See [TOEFL Scores](/toefl.jpg))  
+  TOEFL: 98 (See [TOEFL Scores](/toefl.jpg))  
   Core Courses: (See [Report Card](/reportcard.pdf))    
 Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**)  
 
@@ -31,14 +31,14 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 1. **Wen, T.**, & Wang, G. J. (2020). Volatility Connectedness in Global Foreign Exchange Markets. _Journal of Multinational Financial Management_ (SSCI), 100617.  
 
 ### Research Interests
-- Financial Networks
-- Systemic Risk
+- Financial Risk Management
+- Portfolio Analysis
 - Operation Research
 - Big Data and Machine Learning
 
 ### Technical Skills 
-- **Programming:** C, C++, Matlab, R, Stata, EViews (Time Series Analysis)   
-- **Other Softwares:** Anylogic (Simulation and Modeling), Pajek (Network Visualization), Gephi (Network Visualization), Markdown, LaTeX (Typesetting) 
+- **Programming:** C, C++, Matlab, R, Python, Stata, EViews (Time Series Analysis)   
+- **Other Softwares:** Anylogic (Simulation and Modeling), Pajek (Network Visualization), Gephi (Network Visualization), LaTeX (Typesetting) 
 
 ### Research Experience
 - **2018--present: Financial Networks and Systematic Risk, _Hunan University_**  
