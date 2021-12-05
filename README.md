@@ -22,8 +22,8 @@ I'm currently a master student of Nankai University majoring in Financial Engine
 - **2019-2022: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
 Graduation Expected in June, 2022
 - **2015-2019: Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China**  
-  GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))    
-  Mathematical Courses: (See [Report Card](/reportcard.pdf))    
+  GPA: 4.15/4.5, Rank: 4/67    
+  Mathematical Courses:     
 Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**)  
 
 ### Publications
@@ -43,9 +43,8 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 
 ### Research Experience
 - **2019--2020: Financial Networks and Systematic Risk**  
-This work investigates volatility spillover connectedness among the currencies based on network topology. Within the variance decomposition framework, systematic risk contributors and receivers in global foreign exchange markets are identified. Also, I develop the analysis about the potential spillover mechanisms. The work has been published on _Journal of Multinational Financial Management_.
-
-![Network Visualization](/fig11.jpg)
+This work investigates volatility spillover connectedness among the currencies based on network topology. Within the variance decomposition framework, systematic risk contributors and receivers in global foreign exchange markets are identified. Also, I develop the analysis about the potential spillover mechanisms. The work has been published on _Journal of Multinational Financial Management_ (cited by SSCI, IF = 3.945).  
+**Abstract:** We statically and dynamically measure total and directional volatility connectedness in global foreign exchange (forex) markets. We use the volatility spillover index and LASSO-VAR approaches in the variance decomposition framework to construct high-dimensional volatility connectedness network linking 65 major currencies. Empirical results indicate that the US dollar (USD) and Euro are major volatility transmitters while other currencies including Japanese yen and British pound are basically net volatility receivers. In volatility connectedness network, currencies tend to be clustered according to geographical distributions. Dynamically, total volatility connectedness reacts sensitively to changes in international economic fundamentals and increases during crisis periods. Directional volatility connectedness of Renminbi has decreased significantly since the reforms of the Chinese exchange rate regime (which shifts from a USD-pegged exchange rate regime to a regulated, managed floating exchange rate regime). Generally, oil exports, forex regimes and monetary policies are major factors driving volatility transmission across global forex markets.
 
 ### Honors
 - [**Second Prize** in “FLTRP Cup” English Reading Contest](/FLTRP.jpg)  
