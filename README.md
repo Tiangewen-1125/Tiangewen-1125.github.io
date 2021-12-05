@@ -22,13 +22,12 @@ I'm currently a master student of Nankai University majoring in Financial Engine
 - **2019-2022: Master of Science, Financial Engineering, _Nankai University_, Tianjin City, P.R. China**  
 Graduation Expected in June, 2022
 - **2015-2019: Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China**  
-  GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))  
-  TOEFL: 98 (See [TOEFL Scores](/toefl.jpg))  
+  GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))    
   Core Courses: (See [Report Card](/reportcard.pdf))    
 Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**)  
 
-### Latest News
-1. **Wen, T.**, & Wang, G. J. (2020). Volatility Connectedness in Global Foreign Exchange Markets. _Journal of Multinational Financial Management_ (SSCI), 100617.  
+### Publications
+1. **Wen, T.**, & [Wang, G. J.](https://researchgate.net/profile/Gang_Jin_Wang) (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_ (SSCI), 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062) 
 
 ### Research Interests
 - Financial Risk Management
@@ -37,6 +36,8 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 - Big Data and Machine Learning
 
 ### Technical Skills 
+- **English Proficiency:** TOEFL: Reading (28) + Listening (27) + Speaking (19) + Writing (24)  
+                           GRE: Verbal (158) + Quantitative (169) + Analytical Writing (3.5)
 - **Programming:** C, C++, Matlab, R, Python, Stata, EViews (Time Series Analysis)   
 - **Other Softwares:** Anylogic (Simulation and Modeling), Pajek (Network Visualization), Gephi (Network Visualization), LaTeX (Typesetting) 
 
@@ -52,14 +53,10 @@ Management_.
 
 ![Network Visualization](/fig11.jpg)
 
-### Publications
-1. **Wen, T.**, & [Wang, G. J.](https://researchgate.net/profile/Gang_Jin_Wang) (2020). [Volatility Connectedness in Global Foreign Exchange Markets](/VCGFM.pdf). _Journal of Multinational Financial Management_, 100617. DOI: [10.1016/j.mulfin.2020.100617](https://linkinghub.elsevier.com/retrieve/pii/S1042444X20300062)  
-
 ### Honors
 - [**Second Prize** in “FLTRP Cup” English Reading Contest](/FLTRP.jpg)  
 - **Provincial Third Prize** in National Mathematical Modelling Contest  
 - **Third Prize** in Hunan University Mathematical Modelling Contest
-- [**Successful Participant** of the Interdisciplinary Contest In Modeling](/ICIM.jpg)
 - Offered _Hunan University_ **Second Class** Scholarship (2017, 2018) 
 
 
