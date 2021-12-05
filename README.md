@@ -43,7 +43,7 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 
 ### Research Experience
 - **2020--present: Portfolio Optimization based on Multilayer Spillover Network**  
-In this work, I proposed portfolio optimization methods based on the dynamic multilayer spillover network topology. Portfolio performances regarding Sharpe ratio, Carhart alpha, turnover, cumulative return, and etc are evaluated, and investment suggestions on which assets and industries in different stock markets are worth investing are made.  
+In this work, I proposed portfolio optimization methods based on the dynamic multilayer information spillover network topology. Portfolio performances regarding Sharpe ratio, Carhart alpha, turnover, cumulative return, and etc are evaluated, and investment suggestions on which assets and industries in different stock markets are worth investing are made.  
 Now I’ve finished the paper writing.
 
 - **2019--2020: Financial Networks and Systematic Risk**  
