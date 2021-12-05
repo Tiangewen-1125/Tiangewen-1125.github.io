@@ -4,7 +4,7 @@
       <h1>Tiange Wen (闻天歌)</h1>
       <p>Gender: Female</p>
       <p>Citizenship: Chinese</p>
-      <p>Email: tiangewen_or@outlook.com</p>
+      <p>Email: tiangewen@qq.com</p>
       <p>Tel: (+86) 173 2027 0982</p>
       <p>Address: No.739 Zhongshan Road, Wuhan city, Hubei Province, P.R. China</p>
     </td>
@@ -23,7 +23,7 @@ I'm currently a master student of Nankai University majoring in Financial Engine
 Graduation Expected in June, 2022
 - **2015-2019: Bachelor of Science, Financial Management (Financial Engineering), _Hunan University_, Hunan Province, P.R. China**  
   GPA: 4.15/4.5, Rank: 4/67 (See [GPA and Rank](/gpa&rank.jpg))    
-  Core Courses: (See [Report Card](/reportcard.pdf))    
+  Mathematical Courses: (See [Report Card](/reportcard.pdf))    
 Operation Research (**92**), Ordinary Differential Equation (**100**), Stochastic Process (**96**), Optimization Theory and Method (**91**), Partial Differential Equation (**97**), Real Variable Function and Functional Analysis (**97**), Probability theory (**98**), Mathematical Statistics (**98**), Applied Statistics (**97**)  
 
 ### Publications
@@ -37,19 +37,13 @@ Operation Research (**92**), Ordinary Differential Equation (**100**), Stochasti
 
 ### Technical Skills 
 - **English Proficiency:** TOEFL: Reading (28) + Listening (27) + Speaking (19) + Writing (24)  
-                           GRE: Verbal (158) + Quantitative (169) + Analytical Writing (3.5)
+- GRE: Verbal (158) + Quantitative (169) + Analytical Writing (3.5)
 - **Programming:** C, C++, Matlab, R, Python, Stata, EViews (Time Series Analysis)   
 - **Other Softwares:** Anylogic (Simulation and Modeling), Pajek (Network Visualization), Gephi (Network Visualization), LaTeX (Typesetting) 
 
 ### Research Experience
-- **2018--present: Financial Networks and Systematic Risk, _Hunan University_**  
-Firstly, I developed both static and dynamic volatility connectedness measures of global foreign exchange
-(forex) markets based on LASSO-VAR approaches in the variance decomposition framework.
-Then I constructed the high dimensional volatility connectedness network linking more than 40 major currencies and
-explored factors driving risk contagion between forex markets by analyzing properties of the complex
-networks. In the empirical research, I calculated the volatility spillover index and enabled network visualization. My undergraduate thesis (see the [Abstract](/Abs.pdf)) was completed on this basis. Then with the instruction of my supervisor, I 
-completed and revised the manuscript which has been accepted by _Journal of Multinational Financial
-Management_.
+- **2019--2020: Financial Networks and Systematic Risk**  
+This work investigates volatility spillover connectedness among the currencies based on network topology. Within the variance decomposition framework, systematic risk contributors and receivers in global foreign exchange markets are identified. Also, I develop the analysis about the potential spillover mechanisms. The work has been published on _Journal of Multinational Financial Management_.
 
 ![Network Visualization](/fig11.jpg)
 
